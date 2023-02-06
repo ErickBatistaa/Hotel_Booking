@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "jIJ7gpXjAAPi5CfCf4yGz728+KwxEoQTcA+jNs0ZK8UyXFwtRSelZR9rtmxXo64WXsfUq3QIR5zdHgh3OWsESA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\erick\\OneDrive\\Documentos\\Projetos\\HotelBooking\\BookingService\\Core\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\erick\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
+    "C:\\Users\\erick\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
